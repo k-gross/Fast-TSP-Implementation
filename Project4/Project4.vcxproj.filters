@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="getopt.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="amongus.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="Error_messages.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="genPerms.cpp.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="README.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="sample-ab.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="sample-ab-FASTTSP-out.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="sample-ab-MST-out.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="sample-c.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="sample-c-FASTTSP-out.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="sample-c-MST-out.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="sample-c-OPTTSP-out.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="sample-d.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="sample-d-FASTTSP-out.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="sample-d-MST-out.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="sample-d-OPTTSP-out.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="sample-e.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="sample-e-debug-output.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="sample-e-FASTTSP-out.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="sample-e-MST-out.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="sample-e-OPTTSP-out.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="sample-f.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="sample-f-debug-output.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="sample-f-FASTTSP-out.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="sample-f-MST-out.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="sample-f-OPTTSP-out.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="spec-test.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="spec-test-FASTTSP-out.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="spec-test-MST-out.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="spec-test-OPTTSP-out.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="outFile.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="test-1-MST.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="test-2-MST.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="test-3-FASTTSP.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="test-4-OPTTSP.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="test-5-MST.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="test-6-MST.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Makefile">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
+</Project>
